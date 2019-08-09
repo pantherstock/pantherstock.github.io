@@ -12,6 +12,10 @@
   height: 100vh;
 }
 
+.nav a {
+  color: #0053ad;
+}
+
 .header_logo img {
   width: 50px;
   margin: 3% 0;

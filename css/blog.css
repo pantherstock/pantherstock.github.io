@@ -1,3 +1,7 @@
+.nav a {
+  color: #0053ad;
+}
+
 .nav-justified {
   display: flex;
   justify-content: space-around;
